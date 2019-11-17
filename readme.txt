@@ -1,0 +1,1 @@
+1. Replace the paths to the input and output videos in the test() function. 
